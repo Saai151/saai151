@@ -4,10 +4,10 @@
 
 ## 🚀 What I'm Up To
 
-- 🔭 **Currently:** ML Engineer Intern at **IBM** 
+- 🔭 **Currently:** Software Engineer Intern at **Shopify** 
 - 🎯 **Building:** [Squeak](https://github.com/squeak-today/squeak) - LLM-powered language learning platform! 📈
 - 🎓 **Studying:** Double degree in CS @ UW and Business @ WLU
-- 🌱 **Previously:** Software Engineer Inter **Autotrader**
+- 🌱 **Previously:** ML Engineer Intern **IBM**
 
 ## 🛠️ Tech Stack
 
