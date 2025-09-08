@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Saai Arora
 
-**Double Degree Student @ UW & WLU | Software Engineer @ IBM | Building @ Squeak**
+**Double Degree Student @ UW & WLU | Software Engineer @ Shopify**
 
 ## 🚀 What I'm Up To
 
