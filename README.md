@@ -46,4 +46,4 @@ Website: https://squeak.today
 
 - Email: saai.arora@uwaterloo.ca  
 - LinkedIn: https://www.linkedin.com/in/saaiarora/  
-- Website: https://squeak.today
+- Website: https://saaiarora.com/
