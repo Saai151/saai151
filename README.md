@@ -10,7 +10,7 @@
 ## About
 
 - Previously worked at **Shopify**, **IBM**, and **AutoTrader**
-- Built **Squeak**, an LLM-powered language learning platform with **1,200+ users**
+- Built **Squeak**, an LLM-powered language learning platform with **1,400+ users**
 - Currently building something new
 - Incoming **Software Engineering Intern @ Ramp** (Applied AI)
 
